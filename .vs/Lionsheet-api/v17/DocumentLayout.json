@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anshu\\Training\\Lionsheet-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|c:\\users\\anshu\\training\\lionsheet-api\\lionsheet-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|solutionrelative:lionsheet-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|c:\\users\\anshu\\training\\lionsheet-api\\lionsheet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|solutionrelative:lionsheet-api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|c:\\users\\anshu\\training\\lionsheet-api\\lionsheet-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|solutionrelative:lionsheet-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|c:\\users\\anshu\\training\\lionsheet-api\\lionsheet-api\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|solutionrelative:lionsheet-api\\models\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|c:\\users\\anshu\\training\\lionsheet-api\\lionsheet-api\\migrations\\20240717082757_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|solutionrelative:lionsheet-api\\migrations\\20240717082757_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|c:\\users\\anshu\\training\\lionsheet-api\\lionsheet-api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F92E004-8FF1-4F2B-AF82-052DF8E485B1}|Lionsheet-api\\Lionsheet-api.csproj|solutionrelative:lionsheet-api\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Lionsheet-api\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Lionsheet-api\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T20:10:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240717082757_initial.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Migrations\\20240717082757_initial.cs",
+              "RelativeDocumentMoniker": "Lionsheet-api\\Migrations\\20240717082757_initial.cs",
+              "ToolTip": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Migrations\\20240717082757_initial.cs",
+              "RelativeToolTip": "Lionsheet-api\\Migrations\\20240717082757_initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:27:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Program.cs",
+              "RelativeDocumentMoniker": "Lionsheet-api\\Program.cs",
+              "ToolTip": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Program.cs",
+              "RelativeToolTip": "Lionsheet-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:23:17.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\appsettings.json",
+              "RelativeDocumentMoniker": "Lionsheet-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\appsettings.json",
+              "RelativeToolTip": "Lionsheet-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T21:34:03.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Models\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Lionsheet-api\\Models\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Models\\EmployeeContext.cs",
+              "RelativeToolTip": "Lionsheet-api\\Models\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T21:24:30.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Lionsheet-api\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\anshu\\Training\\Lionsheet-api\\Lionsheet-api\\Models\\Employee.cs",
+              "RelativeToolTip": "Lionsheet-api\\Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T20:32:55.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
